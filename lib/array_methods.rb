@@ -13,7 +13,6 @@ end
 
 def using_first(array)
   first_element = array.first
-
 end
 
 def using_last(array)
